@@ -1,5 +1,5 @@
 # Rescue-Wallet
-Simple Python Script to rescue compromised wallet (BSC Network Only) from Sweeper Bot using BloXRoute MEV Bundle Service. see docs: [BloXRoute](https://docs.bloxroute.com/apis/mev-solution/bsc-bundle-submission)
+Simple Python Script to rescue compromised wallet **(BSC Network Only)** from Sweeper Bot using BloXRoute MEV Bundle Service. see docs: [BloXRoute](https://docs.bloxroute.com/apis/mev-solution/bsc-bundle-submission)
 
 ### Prerequisites
 1. Have +- 0.005 BNB in Donator Wallet.
