@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### How to Use
 
-Fill all what you need to fill in this code:
+Open `rescue-with-bundle.py` and fill all what you need to fill with actual value:
 ```python
 BLOXROUTE_AUTH_HEADER = 'AUTH HEADER HERE'
 RPC_URL = 'ENTER RPC URL HERE' # BSC RPC URL
