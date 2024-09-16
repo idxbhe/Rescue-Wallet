@@ -40,18 +40,19 @@ python3 rescue-with-bundle.py
 
 you will get **Bundle Hash** if your request success. 
 
-**Checking Bundle Status**
+### Checking Bundle Status
 
 However, bundle that are successfully sent will not necessarily be accepted by the validator. to check whether the bundle was accepted or rejected. run the `bundle-status.py` and see what message you get. 
-
 ```bash
 python3 bundle-status.py
 ```
-
 Bundle Status Message References : [Bloxroute Docs](https://docs.bloxroute.com/apis/bsc-bundle-trace)
+
+
+
 
 Need Help?
 **Telegram** :[@idxbhe](https://t.me/Kingbhe)
 
-**Don't forget to give me tips** #1F600 
+**Don't forget to give me tips** :grin: 
 - ETH/BSC/POLYGON: `0xcc6a227e29848ca0b18b0c144332da2a4d2565e0`
