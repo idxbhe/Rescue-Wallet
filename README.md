@@ -41,6 +41,7 @@ python3 rescue-with-bundle.py
 you will get **Bundle Hash** if your request success. 
 
 **Checking Bundle Status**
+
 However, bundle that are successfully sent will not necessarily be accepted by the validator. to check whether the bundle was accepted or rejected. run the `bundle-status.py` and see what message you get. 
 
 ```bash
