@@ -55,4 +55,4 @@ Need Help?
 **Telegram** :[@idxbhe](https://t.me/Kingbhe)
 
 **Don't forget to give me tips** :grin: 
-- ETH/BSC/POLYGON: `0xcc6a227e29848ca0b18b0c144332da2a4d2565e0`
+- ETH/BSC/POLYGON: `0xd0df07fb48e2678466b1af28b13da162d0920a4e`
